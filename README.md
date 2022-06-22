@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋, Me chamo Mylena Munhoz</h1>
+<h1 align="center">Olá👋, me chamo Mylena Munhoz</h1>
 <h3 align="center">Sou Desenvolvedora Front-end!</h3>
 
 - 🔭 Atualmento trabalho na [Gazin Tech](https://gazintech.com.br/)
