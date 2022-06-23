@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋, me chamo Mylena Munhoz</h1>
 <h3 align="center">Sou Desenvolvedora Front-end!</h3>
 
-- 🔭 Atualmento trabalho na [Gazin Tech](https://gazintech.com.br/)
+- 🔭 Atualmente trabalho na [Gazin Tech](https://gazintech.com.br/)
 
 - 🌱 Estou sempre em constante aprendizado, no momento estou aprendendo sobre **Clean Architecture, SOLID e TDD**
 
