@@ -36,7 +36,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mylenamunhoz)  
 
 
-<h3 align='left'>Visite minhas redes socias para conhecer um pouco mais sobre mim:</h3>
+<h3 align='left'>Visite minhas redes sociais para conhecer um pouco mais sobre mim:</h3>
 
 <a href="https://linkedin.com/in/mylena-munhoz-04508117a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mylena-munhoz-04508117a" height="30" width="40" /></a>
 <a href="https://instagram.com/pmunhozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pmunhozz" height="30" width="40" /></a>
