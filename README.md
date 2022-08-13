@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, me chamo Mylena Munhoz</h1>
-<h3 align="center">Sou desenvolvedora Front-end!</h3>
+<h3 align="center">Sou desenvolvedora Full Stack!</h3>
 
 - 🔭 Atualmente trabalho na [Gazin Tech](https://gazintech.com.br/)
 
